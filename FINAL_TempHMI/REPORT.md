@@ -8,7 +8,7 @@ Yahia Khalaf, 2401241
 Ziad Ahmed, 2500131  
 Amr Khaled, 2401565
 
-GitHub repository: PASTE YOUR GITHUB LINK HERE  
+GitHub repository: https://github.com/ziadelhawary500-blip/TempHMI_zh_yk_ah/tree/main/FINAL_TempHMI  
 Demo video: demo_video.mp4 in the GitHub repository
 
 
